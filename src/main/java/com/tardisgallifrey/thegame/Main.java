@@ -8,5 +8,7 @@ public class Main {
         //TODO: Game class
         //TODO: Combat class
         //TODO: Movement class
+        //TODO: Player class
+        //TODO: Monster class
     }
 }
