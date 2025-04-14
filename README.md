@@ -1,2 +1,2 @@
 # theGame
-Main repostitory for theGame
+Development branch for theGame
