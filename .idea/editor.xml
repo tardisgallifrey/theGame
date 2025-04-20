@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EditorSettings">
+    <option name="SHOW_INTENTION_BULB" value="false" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="PARAMETER_INFO_DELAY" value="999999" />
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="false" />
+    <option name="AUTO_POPUP_COMPLETION_LOOKUP" value="false" />
+  </component>
+  <component name="CompletionSettings">
+    <option name="SHOW_NOTIFICATIONS" value="false" />
+    <option name="AUTOPOPUP_FOCUS_POLICY" value="NEVER" />
+    <option name="AUTOPOPUP_DELAY" value="999999" />
+    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
+  </component>
+</project>
