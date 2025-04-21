@@ -22,5 +22,9 @@ public class Main {
         //Begin moving player
         //Resolve combat or items
         //Loop until game ends
+        Person player = new Person("dave", new int[] {6, 6, 6, 0, 0, 0,});
+        System.out.println(player.getName());
+        System.out.println(player.getStrength());
+        System.out.println(player.getDexterity());
     }
 }
