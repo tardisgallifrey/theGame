@@ -1,7 +1,5 @@
 package com.tardisgallifrey.thegame;
 
-import java.util.ArrayList;
-
 public class Person {
 
     private String name;
@@ -15,6 +13,16 @@ public class Person {
     public String getName()
     {
         return this.name;
+    }
+
+    public int getStrength()
+    {
+        return this.attributes.strength();
+    }
+
+    public int getDexterity()
+    {
+        return this.attributes.dexterity();
     }
 
     public Person(String name, int[] attributes)
